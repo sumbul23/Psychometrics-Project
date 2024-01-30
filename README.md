@@ -20,8 +20,8 @@ The study explores the concept of Protestant Work Ethic (PWE) and its applicatio
 Protestant work ethic, DIF, invariance, gender, bias
 
 ## Contents
-- **ResearchPaper.pdf**: The full research paper detailing the investigation of the fairness of PWE scale items among male and female genders.
-- **CodeFiles/**: Folder containing R code files used for the Differential Item Functioning (DIF) analysis.
+- **Test-analysis-report.pdf**: The full research paper detailing the investigation of the fairness of PWE scale items among male and female genders.
+- **R-code**: R code files used for the Differential Item Functioning (DIF) analysis.
 
 ## Instructions
 - To view or download the research paper, simply click on the "Test-analysis-report.pdf" file above.
