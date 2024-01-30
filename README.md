@@ -31,7 +31,7 @@ Protestant work ethic, DIF, invariance, gender, bias
 The research paper and accompanying code provide insights into the dimensionality of the PWE scale and the measure of fairness of PWE scale items across genders, contributing to the understanding of measurement invariance in psychological assessment.
 
 ## License
-This repository is licensed under the [License Name]. See the LICENSE file for details.
+This repository is licensed under the [GNU General Public License v3.0]. See the LICENSE file for details.
 
 ## Contact Information
 For inquiries or feedback, please contact Sumbul Jafri at [sumbul2998@gmail.com].
