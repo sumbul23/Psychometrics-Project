@@ -34,4 +34,4 @@ The research paper and accompanying code provide insights into the dimensionalit
 This repository is licensed under the [GNU General Public License v3.0]. See the LICENSE file for details.
 
 ## Contact Information
-For inquiries or feedback, please contact Sumbul Jafri at [sumbul2998@gmail.com].
+For inquiries or feedback, please contact Sumbul Jafri at [sumbul.jafri1@uni-oldenburg.de].
